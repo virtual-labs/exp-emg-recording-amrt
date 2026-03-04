@@ -1,1 +1,1 @@
-## Experiment name
+## Electromyography (EMG) Signal Recording
