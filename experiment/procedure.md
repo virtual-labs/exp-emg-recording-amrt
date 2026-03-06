@@ -114,8 +114,10 @@
 
 <p align="center">
   <img src="images/EMG11.jpg" title="Step1" />
+  <img src="images/EMG12.jpg" title="Step1" />
 </p>
 
 &nbsp;
 
 &nbsp;
+13. Users can download the report of the results and raw data in a CSV file.
