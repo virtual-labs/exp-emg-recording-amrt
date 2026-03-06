@@ -8,3 +8,52 @@ Electromyography is a process of recording electrical signal activity produced b
 &nbsp;
 #### Motor Unit
 The motor unit refers to the fundamental structure that is assessed for electromyogram. It is the smallest functional unit comprising a motor neuron and the muscle fibers innervated by that neuron for describing the neural control of muscular contraction. A motor unit consists of one alpha motor neuron, which is in the spinal cord, an axon from a nerve cell to a skeletal muscle, and all the muscle fibers that are innervated by the motor axon. All the muscle fibers act “as one” within the innervation process. The site where motor axons terminate on individual muscle cells is called the neuromuscular junction (Figure 1).  
+&nbsp;
+<p align="center">
+  <img src="images/1.png" title="motor neuron" />
+  <br />
+  <i>Figure 1. Each motor neuron synapses with multiple muscle fibers
+
+Source: Hall, J. E. (2021). Guyton and Hall Textbook of Medical Physiology (14th ed.). Philadelphia: Elsevier.
+</i>
+</p>
+
+&nbsp;
+
+&nbsp;
+<p align="center">
+  <img src="images/2.jpg" title="firing" />
+  <br />
+  <i>Figure 2. Collective firing of muscle fibers and production of motor unit action potential that is measured as an EMG signal. 
+
+Source: Tagore S, Reche A, Paul P, et al. (December 19, 2023) Electromyography: Processing, Muscles' Electric Signal Analysis, and Use in Myofunctional Orthodontics. Cureus 15(12): e50773. doi:10.7759/cureus.50773
+</i>
+</p>
+
+&nbsp;
+
+&nbsp;
+<p align="center">
+  <img src="images/3.png" title="Steps involved in the muscle membrane excitation process" />
+  <br />
+  <i>Figure 3. Steps involved in the muscle membrane excitation process
+
+Source:Konrad, P. (2005). The ABC of EMG. A practical introduction to kinesiological electromyography, 1(2005), 30-5.
+
+</i>
+</p>
+
+&nbsp;
+
+&nbsp;
+<p align="center">
+  <img src="images/4.png" title="Representation of basic components of an EMG system" />
+  <br />
+  <i>Figure 4. Representation of basic components of an EMG system
+
+Source: Garcia, M. C., & Vieira, T. M. M. (2011). Surface electromyography: Why, when and how to use it. Revista andaluza de medicina del deporte, 4(1), 17-28.
+
+</i>
+</p>
+
+&nbsp;
