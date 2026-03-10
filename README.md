@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Introduction to Biomedical Engineering Instrumentation Lab
+<b> Experiment|     <b> Electromyography (EMG) Signal Recording
 
 ### About the Experiment 
 
